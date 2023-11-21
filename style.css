@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(48, 40, 37);
+}
+
+h1{
+    color: azure;
+    margin-top: 50px;
+    font-size: 4rem;
+}
+
+.main{
+    background-color: rgb(159, 134, 122);
+    height: 290px;
+    margin: 50px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+#screen{
+    background-color: azure;
+    height: 60px;
+    border: 5px solid rgb(195, 215, 215);
+    border-radius: 10px;
+
+}
+
+#display{
+    height: 230px;
+    background-color: rgb(106, 112, 110);
+    border-radius: 10px;
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.operator,.mian{
+    color: blueviolet;
+    height: 50px;
+    background-color: rgb(223, 223, 226);
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    margin-top: 10px;
+}
