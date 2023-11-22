@@ -38,7 +38,8 @@ h1{
     gap: 20px;
 }
 
-.number{
+.operator,.mian{
+
     color: blueviolet;
     height: 50px;
     background-color: rgb(223, 223, 226);
